@@ -22,3 +22,7 @@ Problem Statement:Declare a 2-dimensional array, arr, with n empty arrays, all z
 📌 Day 5: Left rotation
 
 Problem Statement:A Left rotation operation on a circular array shifts each of the array's elements 1 unit to the left. The elements that fall off the left end reappear at the right end. Given an integer d , rotate the array that many steps to the left and return the result.
+
+📌Day 6: Insert Element into Sorted List
+
+Problem Statement: An insertion operation on a sorted array shifts elements to place a new value in its correct position. Given a sorted list with an unsorted element at the end, insert it into its correct position by shifting elements as needed and print the array after each shift or insertion.
