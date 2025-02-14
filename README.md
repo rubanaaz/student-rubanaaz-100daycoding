@@ -26,3 +26,7 @@ Problem Statement:A Left rotation operation on a circular array shifts each of t
 📌Day 6: Insert Element into Sorted List
 
 Problem Statement: An insertion operation on a sorted array shifts elements to place a new value in its correct position. Given a sorted list with an unsorted element at the end, insert it into its correct position by shifting elements as needed and print the array after each shift or insertion.
+
+📌 Day 7:String Similarity
+
+Problem Statement:For two strings A and B, we define the similarity of the strings to be the length of the longest prefix common to both strings.
