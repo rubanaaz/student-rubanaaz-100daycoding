@@ -31,6 +31,6 @@ Problem Statement: An insertion operation on a sorted array shifts elements to p
 
 Problem Statement:For two strings A and B, we define the similarity of the strings to be the length of the longest prefix common to both strings.
 
-📌 Day 8: Digital Frequency:
+📌 Day 8: Digital Frequency
 
 Problem Statement:Given a string,s , consisting of alphabets and digits, find the frequency of each digit in the given string.
