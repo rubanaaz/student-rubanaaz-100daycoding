@@ -38,3 +38,7 @@ Problem Statement:Given a string,s , consisting of alphabets and digits, find th
 📌 Day 9: Nth Term
 
 Problem Statement:There is a series,s , where the next term is the sum of pervious three terms. Given the first three terms of the series,a , b, and c respectively, you have to output the nth term of the series using recursion
+
+📌 Day 10: Power Calculation
+
+Problem Statement:Print the last two digits of S for each test case in separate lines
