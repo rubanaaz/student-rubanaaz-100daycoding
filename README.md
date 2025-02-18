@@ -42,3 +42,7 @@ Problem Statement:There is a series,s , where the next term is the sum of pervio
 📌 Day 10: Power Calculation
 
 Problem Statement:Print the last two digits of S for each test case in separate lines
+
+📌 Day 11: Rearranging Two Arrays
+
+Problem Statement: Given multiple queries with arrays A, B, and a value K, determine whether there exists a permutation of A' and B' such that the given condition holds. If such a permutation is possible, return "YES"; otherwise, return "NO".
