@@ -54,3 +54,8 @@ Problem Statement: Given an array, of size n, reverse it.
 📌 Day 13 :Student Mark
 
 Problem Statement:The array name,marks , works as a pointer which stores the base address of that array. In other words,marks contains the address where marks is stored in the memory.
+
+📌 Day 14: Bitwise Operators
+
+Problem Statement: In this task, you'll work with logical bitwise operators. Data is stored in binary form, where 1 represents true and 0 represents false. Logical operators in C compare the bits of two numbers and return either 1 (true) or 0 (false) for each bit checked.
+
