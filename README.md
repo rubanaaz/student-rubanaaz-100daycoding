@@ -59,3 +59,6 @@ Problem Statement:The array name,marks , works as a pointer which stores the bas
 
 Problem Statement: In this task, you'll work with logical bitwise operators. Data is stored in binary form, where 1 represents true and 0 represents false. Logical operators in C compare the bits of two numbers and return either 1 (true) or 0 (false) for each bit checked.
 
+📌Day 15: Array Manipulation
+
+Problem Statement:Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in the array.
