@@ -63,6 +63,6 @@ Problem Statement: In this task, you'll work with logical bitwise operators. Dat
 
 Problem Statement:Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in the array.
 
-📌 Day 16:Mini Max Sum
+📌 Day 16: Mini Max Sum
 
 Problem Statement:Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
