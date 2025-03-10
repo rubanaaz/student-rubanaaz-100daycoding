@@ -91,3 +91,7 @@ Problem Staement:Given an integer, we need to find the super digit of the intege
 
 Problem Staement:Complete the function solve me first to compute the sum of two integers.
 
+📌 Day 23: Cat and Mouse
+
+Problem Statement: There are two cats and a mouse positioned on a line. Given their locations x, y, and z, determine which cat reaches the mouse first. Print "Cat A" if Cat A wins, "Cat B" if Cat B wins, or "Mouse C" if both cats arrive at the same time and the mouse escapes.
+
