@@ -95,3 +95,7 @@ Problem Staement:Complete the function solve me first to compute the sum of two 
 
 Problem Statement: There are two cats and a mouse positioned on a line. Given their locations x, y, and z, determine which cat reaches the mouse first. Print "Cat A" if Cat A wins, "Cat B" if Cat B wins, or "Mouse C" if both cats arrive at the same time and the mouse escapes.
 
+📌Day 24: Birthday Cake Candles
+
+Problem Statement: You are in charge of a child’s birthday cake, which has one candle for each year of their age. The child can only blow out the tallest candles. Given an array of candle heights, determine how many of them are the tallest and return the count.
+
