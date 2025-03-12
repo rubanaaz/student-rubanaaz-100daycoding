@@ -99,3 +99,11 @@ Problem Statement: There are two cats and a mouse positioned on a line. Given th
 
 Problem Statement: You are in charge of a child’s birthday cake, which has one candle for each year of their age. The child can only blow out the tallest candles. Given an array of candle heights, determine how many of them are the tallest and return the count.
 
+📌 Day 25: Staircase
+
+Problem Statement: Create a program that displays a staircase of a specified size.
+
+📌 Day 26: Counting Valley
+
+Problem Statement: A dedicated hiker maintains detailed records of their excursions. During the most recent hike, which consisted of a total of steps, each step was recorded as either an uphill (U) or a downhill (D) step. Hikes always commence and conclude at sea level, with each step up or down indicating a 1 unit change in elevation.
+
