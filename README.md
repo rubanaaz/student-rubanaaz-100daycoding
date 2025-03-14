@@ -107,3 +107,7 @@ Problem Statement: Create a program that displays a staircase of a specified siz
 
 Problem Statement: A dedicated hiker maintains detailed records of their excursions. During the most recent hike, which consisted of a total of steps, each step was recorded as either an uphill (U) or a downhill (D) step. Hikes always commence and conclude at sea level, with each step up or down indicating a 1 unit change in elevation.
 
+📌 Day 27: Electronic City
+
+Problem Statement: A person wants to find out which computer keyboard and USB drive are the most expensive ones they can get within a specific budget. Given the price lists for keyboards and USB drives along with the budget, determine the total cost to buy both items. If it’s not possible to purchase both, return -1.
+
