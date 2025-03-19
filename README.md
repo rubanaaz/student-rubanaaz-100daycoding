@@ -111,3 +111,25 @@ Problem Statement: A dedicated hiker maintains detailed records of their excursi
 
 Problem Statement: A person wants to find out which computer keyboard and USB drive are the most expensive ones they can get within a specific budget. Given the price lists for keyboards and USB drives along with the budget, determine the total cost to buy both items. If it’s not possible to purchase both, return -1.
 
+📌 Day 28: Angry Professor
+
+Problem Statement: A professor of Discrete Mathematics is facing a class of students who seem to lack discipline. Frustrated, the professor decides to cancel the class if fewer than a certain number of students show up when it starts. Arrival times range from being on time (arrival time <=0) to arriving late (arrival time>0).
+
+📌 Day 29: Circular Array Rotation
+
+Problem Statement: John Watson is familiar with an operation known as a right circular rotation on an array of integers. This operation takes the last element of the array and moves it to the front, shifting all other elements one position to the right. To challenge Sherlock's skills, Watson gives him an array of integers. Sherlock needs to perform the rotation operation several times and then find the value of the element at a specified position.
+
+📌 Day 30: Halloween Sale
+
+Problem Statement: You’re looking to purchase video games from the well-known online store, Mist.
+
+Typically, all games are priced the same at p dollars. However, they’re gearing up for a seasonal Halloween Sale next month, where you can snag games at a lower price. The first game will still cost p dollars, but each subsequent game will be d dollars cheaper than the one before it. This price drop continues until it hits m dollars, after which every game will be priced at m dollars. How many games can you buy during the Halloween Sale?
+
+📌 Day 31: Extra Long Factorial
+
+Problem Statement: Calculate and display the factorial of a specified integer.
+
+📌 Day 32: Maximum Element
+
+Problem Statement: You start with an empty sequence, and you will receive N queries.
+
