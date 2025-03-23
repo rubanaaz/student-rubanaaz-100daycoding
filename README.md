@@ -133,3 +133,7 @@ Problem Statement: Calculate and display the factorial of a specified integer.
 
 Problem Statement: You start with an empty sequence, and you will receive N queries.
 
+📌 Day 33: Simple Text Editor
+
+Problem Statement: Create a straightforward text editor. The editor starts off with an empty string, S. Carry out Q operations that fall into one of these four categories:
+
