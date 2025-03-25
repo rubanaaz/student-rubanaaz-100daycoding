@@ -135,5 +135,10 @@ Problem Statement: You start with an empty sequence, and you will receive N quer
 
 📌 Day 33: Simple Text Editor
 
-Problem Statement: Create a straightforward text editor. The editor starts off with an empty string, S. Carry out Q operations that fall into one of these four categories:
+Problem Statement: Create a straightforward text editor. The editor starts off with an empty string, S. Carry out Q operations that fall into one of these four categories
+
+📌 Day 34: Equal Stack
+
+Problem Statement: You have three stacks of cylinders, each with the same diameter, but their heights may differ. You can adjust the height of a stack by removing and discarding the topmost cylinder as many times as you need.
+Your goal is to determine the maximum possible height of the stacks so that all of them are exactly the same height. This means you can remove zero or more cylinders from the top of any number of the three stacks until they all match in height, and then return that height.
 
