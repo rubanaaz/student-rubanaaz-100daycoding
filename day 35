@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+long largestRectangle(int h[], int n) {
+    int* stack = (int*)malloc(n * sizeof(int));
+    int top = -1;
+    long max_area = 0;
+    int index = 0;
+
+    while (index < n) {
+        if (top == -1 || h[index] >= h[stack[top]]) {
+            stack[++top] = index++;
+        } else {
+            int top_of_stack = stack[top--];
+            long area = (long)h[top_of_stack] * (top == -1 ? index : index - stack[top] - 1);
+            if (area > max_area) max_area = area;
+        }
+    }
+
+    while (top != -1) {
+        int top_of_stack = stack[top--];
+        long area = (long)h[top_of_stack] * (top == -1 ? index : index - stack[top] - 1);
+        if (area > max_area) max_area = area;
+    }
+
+    free(stack);
+    return max_area;
+}
+
+int main() {
+    int n;
+    scanf("%d", &n);
+    int* h = (int*)malloc(n * sizeof(int));
+    for (int i = 0; i < n; i++) {
+        scanf("%d", &h[i]);
+    }
+
+    printf("%ld\n", largestRectangle(h, n));
+    free(h);
+    return 0;
+}
