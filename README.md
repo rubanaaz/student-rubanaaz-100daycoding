@@ -142,3 +142,12 @@ Problem Statement: Create a straightforward text editor. The editor starts off w
 Problem Statement: You have three stacks of cylinders, each with the same diameter, but their heights may differ. You can adjust the height of a stack by removing and discarding the topmost cylinder as many times as you need.
 Your goal is to determine the maximum possible height of the stacks so that all of them are exactly the same height. This means you can remove zero or more cylinders from the top of any number of the three stacks until they all match in height, and then return that height.
 
+Day 35: Largest Rectangle
+
+Problem Statement: Skyline Real Estate Developers is gearing up to tear down several old, vacant buildings to make way for a new shopping mall. Your mission is to identify the largest solid area where the mall can be built.
+
+📌 Day 36: Balanced Brackets
+
+Problem Statement: A bracket can be any of these characters: (, ), {, }, [, or ]. Two brackets form a matched pair if an opening bracket (like (, [, or {) appears to the left of a closing bracket (like ), ], or }) of the same type. There are three types of matched pairs: [], {}, and ().
+
+
