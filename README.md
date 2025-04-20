@@ -150,4 +150,8 @@ Problem Statement: Skyline Real Estate Developers is gearing up to tear down sev
 
 Problem Statement: A bracket can be any of these characters: (, ), {, }, [, or ]. Two brackets form a matched pair if an opening bracket (like (, [, or {) appears to the left of a closing bracket (like ), ], or }) of the same type. There are three types of matched pairs: [], {}, and ().
 
+📌 Day 37: Implementing a Queue with Two Stacks
+
+Problem Statement: A queue is a type of abstract data structure that keeps track of the order in which items are added, ensuring that the oldest items can be taken out from the front while new items are added to the back. This structure follows the First-In-First-Out (FIFO) principle, meaning that the very first item added to the queue (the one that has been waiting the longest) is always the first to be removed.
+
 
